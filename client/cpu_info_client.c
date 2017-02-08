@@ -19,6 +19,7 @@ char* get_cpu_info_v2();
 
 int main()
 {
+	printf("srry its just a comment\n");
 	
 	struct sockaddr_in client_addr;
 	bzero(&client_addr, sizeof(client_addr));
