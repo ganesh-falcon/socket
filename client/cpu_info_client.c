@@ -19,6 +19,7 @@ char* get_cpu_info_v2();
 
 int main()
 {
+	// 1st terminal
 	printf("srry its just a comment\n");
 	
 	struct sockaddr_in client_addr;
